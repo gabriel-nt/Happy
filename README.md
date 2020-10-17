@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Gabriel-Teixeira/Ecoleta/blob/master/web/src/assets/logo.svg" alt="logo" height="50"/>
+  <img src="https://github.com/gabriel-nt/Happy/blob/master/web/src/images/logo-git.png" alt="logo" height="65"/>
 </p>
 
 <h1 align="center">
