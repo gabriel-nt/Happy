@@ -42,7 +42,7 @@
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz. Projeto desenvolvido durante a semana do Next Level Week 1ª Edição. 
 
 ### ✅ Demonstração
-<!--<img src="https://github.com/gabriel-nt/Ecoleta/blob/master/web/src/assets/dashboard.PNG" />-->
+<img src="https://github.com/gabriel-nt/Happy/blob/master/web/src/images/dashboard.PNG" />
 
 ### ⚙ Pré-requisitos
 
