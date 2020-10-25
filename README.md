@@ -70,6 +70,9 @@ $ yarn
 $ yarn dev
 ```
 
+### 🛢 Insomnia
+<a href="https://insomnia.rest/run/?label=Happy&uri=https%3A%2F%2Fgithub.com%2Fgabriel-nt%2FHappy%2Fblob%2Fmaster%2Fserver%2Fuploads%2Fapi.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+
 ### 📗 Rodando o Frontend (web)
 
 ```bash
