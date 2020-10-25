@@ -122,6 +122,22 @@ Esse projeto foi utilizou das seguintes lib:
 - leaflet
 - styled-components
 
+### 📙 Arquitetura do Projeto
+
+Para uma melhorar estrutura de projetos utilizamos das seguintes fundamentos:
+
+- DDD
+- SOLID
+
+###  📘 Padrão de Código
+
+Para padronizar a escrita do código, utilizamos as seguinte ferramentas:
+
+- Eslint
+- Prettier
+- EditorConfig
+
+
 ### 📝 Licença
 
 Esse projeto está sob a licença MIT.
