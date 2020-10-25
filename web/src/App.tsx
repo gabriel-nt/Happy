@@ -1,14 +1,17 @@
 import React from 'react';
 
 import 'leaflet/dist/leaflet.css';
-import './styles/global.css';
+import GlobalStyle from './styles/global';
 
 import Routes from './routes';
 
-const App:React.FC = () => {
+const App: React.FC = () => {
   return (
-    <Routes />
+    <>
+      <Routes />
+      <GlobalStyle />
+    </>
   );
-}
+};
 
 export default App;
