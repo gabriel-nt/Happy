@@ -120,6 +120,7 @@ Esse projeto foi utilizou das seguintes lib:
 - yup
 - react-leaflet
 - leaflet
+- styled-components
 
 ### 📝 Licença
 
