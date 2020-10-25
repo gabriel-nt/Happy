@@ -7,5 +7,5 @@
 # production
 /build
 
-tmp/*
-!tmp/.gitkeep
+uploads/*
+!uploads/api.json
